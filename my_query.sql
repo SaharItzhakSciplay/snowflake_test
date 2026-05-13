@@ -1,3 +1,2 @@
 SELECT *
-FROM nexus_dev.mkt_tech.alerting_system
-ORDER BY created_at DESC;
+FROM SNOWFLAKE_LEARNING_DB.PUBLIC.sample_data;
